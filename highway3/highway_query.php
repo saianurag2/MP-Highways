@@ -10,7 +10,10 @@ echo "
 
 <!-- Latest compiled JavaScript -->
 <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script>
-<script src='https://maps.googleapis.com/maps/api/js?libraries=places&libraries=geometry&key=AIzaSyBRt2I3ScvWqwE3Q_aHIwKrPAUfv8qHRYI'></script>
+
+/* enter google maps api key */
+
+<script src='https://maps.googleapis.com/maps/api/js?libraries=places&libraries=geometry&key='></script>
 
 <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js'></script>
 <script src='route.js'>
