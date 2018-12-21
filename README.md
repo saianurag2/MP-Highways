@@ -1,6 +1,5 @@
 # MP-Highways
-DBMS project
-
+Website for finding routes between cities of Madhya Pradesh
 
 1. Host a server in your system.(xampp was used while building the project)
 2. Login to phpMyAdmin as root user.
